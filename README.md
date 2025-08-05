@@ -3,7 +3,7 @@
 ## 📜 Project Description
 This project is a ServiceNow **Service Catalog Item** designed to streamline the process of requesting laptops within an organization. It allows employees to easily submit a laptop request with required details, dynamic form behavior, and clear guidance. It also includes update sets for deployment and governance.
 
----
+--- 
 
 ## ❗ Problem Statement
 Employees in the organization need a quick and efficient way to request laptops for work.  
