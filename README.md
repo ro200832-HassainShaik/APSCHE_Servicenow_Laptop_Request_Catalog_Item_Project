@@ -50,8 +50,3 @@ A Service Catalog item was created in ServiceNow to:
 6. Test via: **Service Catalog → Hardware → Laptop Request**.
 
 ---
-
-## 👤 Created By
-**Hassain Shaik**  
-B.Tech CSE – RGUKT Ongole  
-ServiceNow System Administrator
